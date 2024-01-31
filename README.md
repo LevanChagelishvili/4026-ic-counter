@@ -5,7 +5,11 @@ Counter with 4026 ic and 7 segment display, proteus circuit.
 
 
 
-Uploading whatsapp-video-2024-01-25-at-50017-pm_NKmcJz5o.mp4…
+https://github.com/LevanChagelishvili/4026-ic-counter/assets/105656257/2387c73f-ec23-48e1-aef0-6581db5498f4
+
+
+
+
 
 
 ![scem](https://github.com/LevanChagelishvili/4026-ic-counter/assets/105656257/e82dfc57-eda0-4a9b-a042-9030da539399)
